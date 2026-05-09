@@ -1,7 +1,7 @@
 --// ACCESS PANEL UI (Delta / Roblox)
 --// Replace YOUR_LINK with your real link
 
-local link = "https://www.robiox.com.gr/communities/1437714181/Meet-The-Devs"
+local link = "https://discord.gg/mWJvzX4JD"
 
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
