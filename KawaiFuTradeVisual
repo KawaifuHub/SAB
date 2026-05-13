@@ -1,5 +1,5 @@
 -- ══════════════════════════════════════════════════════════
---  KingVisuals — Visual Spawner
+--  KawaiFu — Visual Spawner
 -- ══════════════════════════════════════════════════════════
 
 -- wait for the place to finish initial load before running anything;
@@ -3221,7 +3221,7 @@ local function _buildAndRun()
 
 -- ── ROOT GUI ─────────────────────────────────────────────
 local sg = New("ScreenGui", {
-    Name="KingVisualsSpawner", ResetOnSpawn=false, IgnoreGuiInset=true,
+    Name="KawaiFuSpawner", ResetOnSpawn=false, IgnoreGuiInset=true,
     ZIndexBehavior=Enum.ZIndexBehavior.Sibling, DisplayOrder=5000,
     Parent=GetSafeParent(),
 })
